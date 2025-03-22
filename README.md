@@ -1,3 +1,5 @@
+#KYCHUB - PRODUCTSTASK
+
 Overview
 A sleek web app designed to browse and compare products effortlessly. Built with React and React Router for smooth navigation, styled with CSS and a modern gradient vibe. Perfect for checking out product details or pitting items head-to-head.
 Features
@@ -10,7 +12,7 @@ Compare products side-by-side on the /compare page
 Clean, modern UI with a gradient background and shadow effects
 
 How to Run Locally
-Clone the repo: git clone https://github.com/your-username/productpulse.git
+Clone the repo: git clone: https://github.com/Manikanta-010/kychub-task/tree/master
 
 Navigate to the folder: cd productpulse
 
@@ -21,7 +23,7 @@ Start the app: npm start
 Open http://localhost:3000 in your browser.
 
 Deployment
-Deployed on Netlify at https://productpulse-something.netlify.app. Check it out live!
+Deployed on Netlify at: 
 Why?
 Built this to practice React routing, component design, and deployment workflows while creating something useful for product enthusiasts.
 
