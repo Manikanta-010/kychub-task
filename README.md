@@ -23,7 +23,7 @@ Start the app: npm start
 Open http://localhost:3000 in your browser.
 
 Deployment
-Deployed on Netlify at: 
+Deployed on Netlify at: https://kychub-productstask.netlify.app/
 Why?
 Built this to practice React routing, component design, and deployment workflows while creating something useful for product enthusiasts.
 
